@@ -7,6 +7,15 @@ Khadija Elabaidi</a></h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=bold+New+Roman&size=25&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=100&lines=Check+out+my+repos;Full-stack+development+projects">
   </a>
 </p>
+<p align="center">
+  <a href="https://your-cv-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 🛠️ My Skills
 
 💻 Programming Languages

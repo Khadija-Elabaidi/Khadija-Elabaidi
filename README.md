@@ -2,9 +2,10 @@
 Khadija Elabaidi</a></h1>
 <h2 align="center">Software Engineer Student  |  Java Developer  |  Full Stack  </h2>
 <br/>
-<a href="https://github.com/your-username?tab=repositories">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=100&lines=Check+out+my+popular+repositories;Explore+my+projects+on+GitHub;Full-stack+development+projects">
-</a>
+<p align="center">
+  <a href="https://github.com/your-username?tab=repositories">
+    <img src="https://readme-typing-svg.herokuapp.com?font=bold+New+Roman&size=25&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&height=100&lines=Check+out+my+repos;Full-stack+development+projects">
+  </a>
 </p>
 🛠️ My Skills
 

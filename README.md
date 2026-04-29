@@ -17,9 +17,9 @@ Khadija Elabaidi</a></h1>
   </a>
 </p>
 
-<br/>
- <h2>🛠️My Skills</h2>
 
+<h5> <br/></h5>
+ <h2>🛠️My Skills</h2>
 💻 Programming Languages
 <p align="center"> &emsp; <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"> </a> &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> </a> &emsp; <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"> </a> </p>
 ⚙️ Backend Development
